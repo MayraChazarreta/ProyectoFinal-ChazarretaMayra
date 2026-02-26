@@ -1,0 +1,14 @@
+ID: API-04
+Método: POST
+Endpoint: /products/
+Descripcion: crear un nuevo producto
+Resultado esperado: 201
+Resultado obtenido: 201
+
+Body
+	JSON
+1 {
+2    "id": 21
+3 }
+
+
